@@ -4,7 +4,7 @@ I used to spend a lot of time reading documentations of ReactiveCocoa (Framework
 
 I strongly agree that debugging is not quite easy in the async world. Printing log is my common way to deal with it :D. And yes, I didn't know that RAC provides such a built-in logger.
 
-Actually, I also have my own extensions (`logWhenStarted, logWhenNext, logWhenFailed, logWhenCompleted...`) to deal with this problem. But I have to call N functions instead. Ex: `producer.logWhenStarted("Started").logWhenCompleted("Completed").logWhenFailed("Failed")`
+Actually, I also have my own extensions (`logWhenStarted, logWhenNext, logWhenFailed, logWhenCompleted...`) to log events. But I have to call N functions instead. Ex: `producer.logWhenStarted("Started").logWhenCompleted("Completed").logWhenFailed("Failed")`
 
 Let's look at that of RAC
 
@@ -27,7 +27,7 @@ loginProducer(username, password)
 ```
 
 ### Well, perfect except...
-Sometimes we don't want to print the next value in a custom way. I think the event `Next` should be treated as a special case and need a closure to turn a next value into a string. It seems my function (logWhenNext) is more handy in this case
+Sometimes we desire to print the next value in a custom way. I think the event `Next` should be treated as a special case and need a closure to turn a next value into a string. It seems my function (logWhenNext) is more handy in this case
 
 ```
 func logWhenNext(logText: String) -> SignalProducer<Value, Error>
