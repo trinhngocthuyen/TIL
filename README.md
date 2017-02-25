@@ -10,16 +10,16 @@ https://medium.com/@trinhngocthuyen
 
 #### Content
 ##### iOS
-- [Log events in ReactiveCocoa](rac_log_events.md)
-- [ExpressibleByStringLiteral](expressible_by_string_literal.md)
+- [Log events in ReactiveCocoa](ios/rac_log_events.md)
+- [ExpressibleByStringLiteral](ios/expressible_by_string_literal.md)
 
 ##### General Programming
-- [Garbage Collection Algorithms](gc_algorithms.md)
+- [Garbage Collection Algorithms](general-programming/gc_algorithms.md)
 
 ##### Git
-- [Recover lost commits](recover_lost_commits.md)
-- [Misc about Git](git_misc.md)
+- [Recover lost commits](git/recover_lost_commits.md)
+- [Misc about Git](git/git_misc.md)
 
 ##### Misc
-- [Apply Syntax in Sublime Text](sublime_apply_syntax.md)
+- [Apply Syntax in Sublime Text](misc/sublime_apply_syntax.md)
 
