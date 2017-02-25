@@ -8,19 +8,19 @@ Just share (constantly)!
 My other blog posts:
 https://medium.com/@trinhngocthuyen
 
-#### Content
-##### iOS
+### Content
+#### iOS
 - [Log events in ReactiveCocoa](ios/rac_log_events.md)
 - [ExpressibleByStringLiteral](ios/expressible_by_string_literal.md)
 
-##### General Programming
+#### General Programming
 - [Garbage Collection Algorithms](general-programming/gc_algorithms.md)
 
-##### Git
+#### Git
 - [Recover lost commits](git/recover_lost_commits.md)
 - [Misc about Git](git/git_misc.md)
 
-##### Misc
+#### Misc
 - [Sublime Text: Apply Syntax](misc/sublime_apply_syntax.md)
 - [Sublime Text: Github Markdown](misc/sublime_github_markdown.md)
 
