@@ -21,5 +21,6 @@ https://medium.com/@trinhngocthuyen
 - [Misc about Git](git/git_misc.md)
 
 ##### Misc
-- [Apply Syntax in Sublime Text](misc/sublime_apply_syntax.md)
+- [Sublime Text: Apply Syntax](misc/sublime_apply_syntax.md)
+- [Sublime Text: Github Markdown](misc/sublime_github_markdown.md)
 
