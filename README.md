@@ -13,6 +13,7 @@ https://medium.com/@trinhngocthuyen
 - [FAQ on ReactiveCocoa](ios/faq_on_rac.md)
 - [Log events in ReactiveCocoa](ios/rac_log_events.md)
 - [ExpressibleByStringLiteral](ios/expressible_by_string_literal.md)
+- [Create custom Xcode templates](ios/create_custom_xcode_templates.md)
 
 #### General Programming
 - [Garbage Collection Algorithms](general-programming/gc_algorithms.md)
