@@ -22,6 +22,9 @@ https://medium.com/@trinhngocthuyen
 - [Recover lost commits](git/recover_lost_commits.md)
 - [Misc about Git](git/git_misc.md)
 
+#### Tools
+- [Developer tools, config and snippets](tools/tools_config.md)
+
 #### Misc
 - [Sublime Text: Apply Syntax](misc/sublime_apply_syntax.md)
 - [Sublime Text: Github Markdown](misc/sublime_github_markdown.md)
