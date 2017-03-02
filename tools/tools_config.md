@@ -13,6 +13,7 @@ Developer Tools, Config and Snippets
 - Homebrew: http://brew.sh
 - cdto: https://github.com/jbtule/cdto
 - Sublime Package Control: https://packagecontrol.io/installation
+- Bash Autosuggestions: https://github.com/zsh-users/zsh-autosuggestions
 
 ### iOS
 - Fastlane (integration tool): https://github.com/fastlane/fastlane
