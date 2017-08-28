@@ -6,7 +6,9 @@ Well we could write anything we've learned (not only iOS but also general progra
 Just share (constantly)!
 
 My other blog posts:
-https://medium.com/@trinhngocthuyen
+https://trinhngocthuyen.github.io
+
+P/s: Some tiny bits of knowledge are not necessarily worth a markdown file and hence better to be in the [issues thread](https://github.com/trinhngocthuyen/TIL/issues)
 
 ### Content
 #### iOS
@@ -28,4 +30,7 @@ https://medium.com/@trinhngocthuyen
 #### Misc
 - [Sublime Text: Apply Syntax](misc/sublime_apply_syntax.md)
 - [Sublime Text: Github Markdown](misc/sublime_github_markdown.md)
+
+#### More
+- Look at the [issues](https://github.com/trinhngocthuyen/TIL/issues)
 
